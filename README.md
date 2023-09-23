@@ -1,2 +1,2 @@
 # Car-Wash-Project
-Program car wash yang digunakan untuk menjalankan sistem dalam tempat pencucian mobil dengan file processing yang terdapat di dalamnya.
+The car wash program is used to run the system in a car wash with the processing files contained in it.
